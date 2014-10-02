@@ -2,8 +2,12 @@
     - terme un peu viellot completement dapté à la vision qu'il renvoi et aux procédés que l'on serait tenté de juger arcaillique (mais juste tenté comme nous le verrons juste après)
     ---> Les risques du métier
         - Les risques du métier ou plutôt de nos métier tant la diversité existe (intégrateur, SEO, etc.)
+    ---> Quid de l'utilité de ces méthodes 
+        - nous ne faisons que du web ! ==> mail de la Nasa
 
-
+---->
+    ---> Outils
+        - on va pas parler techno (image on a dit pas la famille ni les fringues)
 
 idée :
     - image sur fond blanc type apple
