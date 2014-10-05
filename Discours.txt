@@ -1,3 +1,7 @@
+Introduction
+    - l'année dernière j'ai été plutot dans l'échec et la défaite en proposant 7 manière de rater un projet. 
+    - Cette année j'ai une seconde chance alors on a décider de partir sur une note plus joyeuse... Un exemple de réussite projet.
+
 ---> Les méthodes classiques
     - terme un peu viellot completement dapté à la vision qu'il renvoi et aux procédés que l'on serait tenté de juger arcaillique (mais juste tenté comme nous le verrons juste après)
     ---> Les risques du métier
@@ -12,3 +16,10 @@
 idée :
     - image sur fond blanc type apple
 
+Images :
+    - cartes globalis sur le compte github d'Armel
+    - image des trucs que fait globalis 
+        - mettre logo CSS3
+        - nodeJS
+        - angular
+        - remplacer schokobons / lib caca
