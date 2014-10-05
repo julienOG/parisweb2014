@@ -22,4 +22,7 @@ Images :
         - mettre logo CSS3
         - nodeJS
         - angular
-        - remplacer schokobons / lib caca
+        - remplacer schokobons...
+
+Chaton :
+ - http://relaischatons.com/
