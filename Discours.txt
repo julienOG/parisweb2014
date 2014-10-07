@@ -14,9 +14,23 @@ Un sujet bien large
     Nous ne sommes pas la pour vous proposer la parole mais une parole ...
     - AJA - Au travers de 3 ans d'expérimentation chez GLOBALIS
 
+Il y a bien longtemps
+    - AJA - Avant de commencer un peu d'histoire et revenons sur les méthodes classiques.
+    - AJA - Derrière ce terme un peu as been...
+    - AJA - Ces méthodes se caractérise par une approche ....
+        - le célebre cycle en V,
+        - les concepts suivants + reprendre tableau
+    - AJA - Je sais ce que vous allez me dire, dans nos métiers liés au web (le SEO, l'accessibilité, le dev front ou back, ...), il y a une forme d'archaisme à travailler comme cela et la conséquence la plus connue est l'effet tunnel : c'est ce que j'ai demndé mais ce n'est plus ce que je veux.
+    - AJA - Alors moi je vous dit, on se calme : justement on ne fait que du web mais toutes les idées ne sont pas mauvaises à prendre. Et pour exemple que ces méthodes sont utiles...
+
+
+[A compléter]
+
+Alors on a créé notre méthode :
+    - AJA - alors on s'est pris en main et dur la base de nos expériences passées bonnes ou mauvaises, qu'elles aient abouties à de franches réussites ou à de pur échecs, nous avons tirer une conclusion : pourquoi ne pas partir sur notre propre interprétation de LA méthode agile ? 
 
 ---> Les méthodes classiques
-    - terme un peu viellot completement dapté à la vision qu'il renvoi et aux procédés que l'on serait tenté de juger arcaillique (mais juste tenté comme nous le verrons juste après)
+    - terme un peu as been (completement indapté à la vision qu'il renvoi) qui fait référence à des process que l'on serait tenté de juger arcaillique (mais juste tenté comme nous le verrons juste après)
     ---> Les risques du métier
         - Les risques du métier ou plutôt de nos métier tant la diversité existe (intégrateur, SEO, etc.)
     ---> Quid de l'utilité de ces méthodes 
