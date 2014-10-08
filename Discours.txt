@@ -24,10 +24,16 @@ Il y a bien longtemps
     - AJA - Alors moi je vous dit, on se calme : justement on ne fait que du web mais toutes les idées ne sont pas mauvaises à prendre. Et pour exemple que ces méthodes sont utiles...
 
 
-[A compléter]
+Et puis l'agilité 
+    - JOG - 
 
 Alors on a créé notre méthode :
-    - AJA - alors on s'est pris en main et dur la base de nos expériences passées bonnes ou mauvaises, qu'elles aient abouties à de franches réussites ou à de pur échecs, nous avons tirer une conclusion : pourquoi ne pas partir sur notre propre interprétation de LA méthode agile ? 
+    - AJA - alors on s'est pris en main et sur la base de nos expériences passées bonnes ou mauvaises, qu'elles aient abouties à de franches réussites ou à de purs échecs, nous avons tirer une conclusion : pourquoi ne pas partir sur notre propre interprétation de LA méthode agile ? - Diapo MOI chef de projet + hollande
+    - AJA - Question 1 : Première question ...
+    - AJA - Question 2 : Deuxième question ? Maintenant qu'on a des objectifs, de quoi on peut partir pour les mener à bien? Quels sont les moyens à notre disposition, les concepts et actions que l'on peut mettre en oeuvre. Quels sont les outils à ma disposition et comment les utiliser.
+    - AJA - Question 3 : J'ai des objectifs, j'ai des outils après réflexion mais comment je mets mes outils aux services de mes objectifs ? Et surtout comment je réponds à la problématique principale : comment rendre cohérent une méthode qui allie problématique générique et spécificités client / projet / équipe, etc.
+
+
 
 ---> Les méthodes classiques
     - terme un peu as been (completement indapté à la vision qu'il renvoi) qui fait référence à des process que l'on serait tenté de juger arcaillique (mais juste tenté comme nous le verrons juste après)
