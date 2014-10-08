@@ -9,7 +9,7 @@ Présentation
 
 Un sujet bien large
     - JOG - Un sujet large - Que ce soit sur les méthodes agiles ou ....
-    - JOG - On ne vous vend pas du rève -  On vous prévient tout de suite, on ne vous proposera pas une méthode toute faites tels des marabouts à tendance mythomane, sur un sujet relativement complexe avec des garanties de réussite et de business retrouvé.
+    - JOG - On ne vous vend pas du rève -  On vous prévient tout de suite, on ne vous proposera pas une méthode toute faites tels des marabouts à tendance mythomane, sur un sujet relativement complexe avec des garanties de réussite et de business retrouvé. Pas de méthode miracle car cela n'existe pas.
     - AJA - Juste un retour d'expérience - En effet, notre objectif ici est plus de partager avec vous, un retour d'expérience sur notre interpretation un peu particulière des méthodes agiles et l'application que nous en avons fait. De certaines bonnes pratiques qui peuvent être mise en place très simplement avec un peu de logique. Et enfin de la manière d'organiser cette méthode.
     Nous ne sommes pas la pour vous proposer la parole mais une parole ...
     - AJA - Au travers de 3 ans d'expérimentation chez GLOBALIS
@@ -26,6 +26,15 @@ Il y a bien longtemps
 
 Et puis l'agilité 
     - JOG - 
+    Tous les projets sont différents.
+    Tous les clients sont différents.
+    Toutes les sociétés / leur fonctionnement et les équipes sont différentes / les modes d'interventions (nous reviendrons à la fin sur le forfait)
+    Parcequ'un projet web est multiple et tous les projets sont différents / les clients sont différents / les équipes sont différents,
+    Parce que l'imprévu est prépondérent et la loi de Murphy ne peut être ignorée.
+S'adapter pour mieux avancer (théorie de l'évolution).
+    Parcequ'un projet web est multiple et tous les projets sont différents / les clients sont différents / les équipes sont différents,
+    Parce que l'imprévu est prépondérent et la loi de Murphy ne peut être ignorée.
+S'adapter pour mieux avancer (théorie de l'évolution).
 
 Alors on a créé notre méthode :
     - AJA - alors on s'est pris en main et sur la base de nos expériences passées bonnes ou mauvaises, qu'elles aient abouties à de franches réussites ou à de purs échecs, nous avons tirer une conclusion : pourquoi ne pas partir sur notre propre interprétation de LA méthode agile ? - Diapo MOI chef de projet + hollande
@@ -33,6 +42,14 @@ Alors on a créé notre méthode :
     - AJA - Question 2 : Deuxième question ? Maintenant qu'on a des objectifs, de quoi on peut partir pour les mener à bien? Quels sont les moyens à notre disposition, les concepts et actions que l'on peut mettre en oeuvre. Quels sont les outils à ma disposition et comment les utiliser.
     - AJA - Question 3 : J'ai des objectifs, j'ai des outils après réflexion mais comment je mets mes outils aux services de mes objectifs ? Et surtout comment je réponds à la problématique principale : comment rendre cohérent une méthode qui allie problématique générique et spécificités client / projet / équipe, etc.
 
+D'abord se pencher sur les objectifs
+    - 
+
+Moyen à mettre en oeuvre
+    - 2 erreurs à éviter : ne pas prendre en compte l'avant vente et ne pas considérer les outils dans la méthodologie.
+
+2 approches
+    - 
 
 
 ---> Les méthodes classiques
