@@ -46,10 +46,14 @@ D'abord se pencher sur les objectifs
     - 
 
 Moyen à mettre en oeuvre
-    - 2 erreurs à éviter : ne pas prendre en compte l'avant vente et ne pas considérer les outils dans la méthodologie.
+    - erreurs à éviter : ne pas prendre en compte l'avant vente et ne pas considérer les outils dans la méthodologie et multipotence VS trop de role
 
 2 approches
-    - 
+    - Le suivi c'est :
+    constater,
+comparer avec le prévisionnel,
+se projeter sur le reste a faire
+- garder un oeil sur le risque
 
 
 ---> Les méthodes classiques
