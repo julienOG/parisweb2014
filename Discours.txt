@@ -56,6 +56,8 @@ comparer avec le prévisionnel,
 se projeter sur le reste a faire
 - garder un oeil sur le risque
 
+--> on a les actions qui sont la matérialisation des concepts
+--> on a les outils qui sont le support des actions
 
 ---> Les méthodes classiques
     - terme un peu as been (completement indapté à la vision qu'il renvoi) qui fait référence à des process que l'on serait tenté de juger arcaillique (mais juste tenté comme nous le verrons juste après)
