@@ -67,6 +67,11 @@ se projeter sur le reste a faire
 --> on a les actions qui sont la matérialisation des concepts
 --> on a les outils qui sont le support des actions
 
+
+JOG - MISE en oeuvre
+- [Discours - ATTENTION ON RESTE DANS LES METHODES AGILES + RAPPEL DES PRECEPTS DE BASE]
+
+
 ---> Les méthodes classiques
     - terme un peu as been (completement indapté à la vision qu'il renvoi) qui fait référence à des process que l'on serait tenté de juger arcaillique (mais juste tenté comme nous le verrons juste après)
     ---> Les risques du métier
@@ -112,6 +117,10 @@ Effet tunnel
 
 Les temps modernes
 - copyright MGM
+
+Socrate 
+huffington post
+
 
  A faire
  - Présentation globalis - depuis 1997
