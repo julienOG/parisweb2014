@@ -27,6 +27,8 @@ Il y a bien longtemps
 
 Et puis l'agilité 
     - JOG - 
+    Reste pour des petites équipes (relativement 1 à 10 développeurs)
+    objectif satisfaction client plutot que réussite du projet
     individus et interactionsplutôt que processus et outils. Transformer les flux horizontaux en flux verticaux
 développement logiciel plutôt que documentation exhaustive
 collaboration avec le client plutôt que négociation contractuelle
@@ -42,6 +44,9 @@ S'adapter pour mieux avancer (théorie de l'évolution).
 S'adapter pour mieux avancer (théorie de l'évolution).
 [Discours - pas une vrai remise en cause, comme on vient de le dire, certains l'applique très bien, maintenant par expérience, nous avons rencontrer les problèmes de communication et de discours relatifs à scrum notamment]
 [Discours - Et puis d'abord pourquoi pas ?]
+Vision en entonnoir. Tout est macro et on fait le micro itération par itération.
+Concept d'intégration du client / co-création : conserver un esprit de collaboration avec le client. Gagnant-gagnant. Co-creation.
+Co-création ne veut pas dire confiance aveugle : prenez des notes et conserver les écrits sont important (surtout à faire comprendre à toute la chaine de valeur du projet)
 
 Alors on a créé notre méthode :
     - AJA - alors on s'est pris en main et sur la base de nos expériences passées bonnes ou mauvaises, qu'elles aient abouties à de franches réussites ou à de purs échecs, nous avons tirer une conclusion : pourquoi ne pas partir sur notre propre interprétation de LA méthode agile ? - Diapo MOI chef de projet + hollande
@@ -56,7 +61,7 @@ D'abord se pencher sur les objectifs
 
 Moyen à mettre en oeuvre
     - AJA - erreurs à éviter : ne pas se limiter aux barrière de la production / ne pas considérer les outils dans la méthodologie /conserver l'équilibre entre multipotence VS trop de role
-    - JOG - Pour les concepts on va déjà faire simple : 
+    - JOG - Pour les concepts on va déjà faire simple. Attention certains concepts sont proches
 
 2 approches
     - Le suivi c'est :
