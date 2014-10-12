@@ -50,6 +50,8 @@ Alors on a créé notre méthode :
 
 D'abord se pencher sur les objectifs
     - JOG
+    [IMG - Schéma avec les différentes phases projet dont la phase de merde]
+                        [Discours - Pilotage par les délais mais on est prêt à en discuter. Il faut un fil rouge et pour nous c'est le temps car logique + exemple derrière cela avec le client qui indique que son projet est repoussé et qu'il est plus cool : ERREUR FATALE]
 
 Moyen à mettre en oeuvre
     - AJA - erreurs à éviter : ne pas se limiter aux barrière de la production / ne pas considérer les outils dans la méthodologie /conserver l'équilibre entre multipotence VS trop de role
