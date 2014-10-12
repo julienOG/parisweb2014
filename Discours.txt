@@ -26,6 +26,10 @@ Il y a bien longtemps
 
 Et puis l'agilité 
     - JOG - 
+    individus et interactionsplutôt que processus et outils. Transformer les flux horizontaux en flux verticaux
+développement logiciel plutôt que documentation exhaustive
+collaboration avec le client plutôt que négociation contractuelle
+ouverture au changement plutôt que suivi d'un plan rigide
     Tous les projets sont différents.
     Tous les clients sont différents.
     Toutes les sociétés / leur fonctionnement et les équipes sont différentes / les modes d'interventions (nous reviendrons à la fin sur le forfait)
@@ -82,7 +86,28 @@ Images :
         - remplacer schokobons...
 
 Chaton :
+ 
  - http://relaischatons.com/
+ Tuto :
+ 
+ - http://www.canalplus.fr/c-divertissement/pid7478-c-tutos.html?kwid={esv_adoutlet}_4021994_341655360_e&esvcid={esvcid}&ESVreferrer={esv_referer}&gclid=CI_MuJyypcECFesJwwodAr0AXg
+ 
+ camion coincé :
+ - http://www.2m40.com/2010/12/15/merci-publicis-net/
+ 
+ Détournement starwars 
+ - copyright disney
+
+ Messages à caractères informatifs
+
+V
+- copyright ABC
+
+Effet tunnel
+- 
+
+Les temps modernes
+- copyright MGM
 
  A faire
  - Présentation globalis - depuis 1997
