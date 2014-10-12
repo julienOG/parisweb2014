@@ -36,9 +36,11 @@ ouverture au changement plutôt que suivi d'un plan rigide
     Parcequ'un projet web est multiple et tous les projets sont différents / les clients sont différents / les équipes sont différents,
     Parce que l'imprévu est prépondérent et la loi de Murphy ne peut être ignorée.
 S'adapter pour mieux avancer (théorie de l'évolution).
-    Parcequ'un projet web est multiple et tous les projets sont différents / les clients sont différents / les équipes sont différents,
+    Parcequ'un projet web est multiple et tous les projets sont différents / les clients sont différents / les équipes sont différents,Des limites : Oui et non : Non car les cadres sont très largement applicable tels que et appliqués à bon escient par beaucoup. OUI car + sur les limites]
     Parce que l'imprévu est prépondérent et la loi de Murphy ne peut être ignorée.
 S'adapter pour mieux avancer (théorie de l'évolution).
+[Discours - pas une vrai remise en cause, comme on vient de le dire, certains l'applique très bien, maintenant par expérience, nous avons rencontrer les problèmes de communication et de discours relatifs à scrum notamment]
+[Discours - Et puis d'abord pourquoi pas ?]
 
 Alors on a créé notre méthode :
     - AJA - alors on s'est pris en main et sur la base de nos expériences passées bonnes ou mauvaises, qu'elles aient abouties à de franches réussites ou à de purs échecs, nous avons tirer une conclusion : pourquoi ne pas partir sur notre propre interprétation de LA méthode agile ? - Diapo MOI chef de projet + hollande
@@ -111,3 +113,9 @@ Les temps modernes
 
  A faire
  - Présentation globalis - depuis 1997
+
+
+
+ [Discours - on s'est un peu creusé la tête et surtout on a commencé par se poser des questions par rapport aux problématiques soulevées : LES même questions que l'on a jugé bon de se poser pour toutes personnes qui veut créer sa propre méthode
+                        ATTENTION : seule question qu'il ne faut pas se poser : EST CE QU'ON PART DANS LE MUR? - on envisage l'échec avant d'avoir commencé
+                        ]

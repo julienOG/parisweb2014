@@ -149,6 +149,10 @@ body {
   border-bottom:1px #EEE solid;
 }
 
+.reveal ul {
+ list-style-type:none;
+}
+
 .reveal ul li {
   margin-bottom: 1em;
 }
