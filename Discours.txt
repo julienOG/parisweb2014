@@ -34,7 +34,7 @@ développement logiciel plutôt que documentation exhaustive
 collaboration avec le client plutôt que négociation contractuelle
 ouverture au changement plutôt que suivi d'un plan rigide
     Tous les projets sont différents.
-    Tous les clients sont différents.
+    Tous les clients sont @.
     Toutes les sociétés / leur fonctionnement et les équipes sont différentes / les modes d'interventions (nous reviendrons à la fin sur le forfait)
     Parcequ'un projet web est multiple et tous les projets sont différents / les clients sont différents / les équipes sont différents,
     Parce que l'imprévu est prépondérent et la loi de Murphy ne peut être ignorée.
